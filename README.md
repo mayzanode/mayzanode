@@ -16,7 +16,7 @@ I'm [mayzanode], a passionate software developer and blockchain enthusiast.
 ![Profile Views](https://komarev.com/ghpvc/?username=mayzanode&color=brightgreen)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mayzanode-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayzanode/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourUsername-blue?style=flat&logo=twitter)](https://twitter.com/zkendgame)
+[![Twitter](https://img.shields.io/badge/Twitter-zkendgame-blue?style=flat&logo=twitter)](https://twitter.com/zkendgame)
 
 ## 🚀 Projects
 - [daily](https://github.com/mayzanode/daily)
