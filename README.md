@@ -1,15 +1,5 @@
 # Hi there 👋
 
-I'm [mayzanode], a passionate software developer and blockchain enthusiast.
-
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [New Technology]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Topics you're knowledgeable about]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun fact about you]
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mayzanode&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayzanode&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayzanode&theme=radical)
